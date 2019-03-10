@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1551862806 source:c:\users\administrator\desktop\juzheng\src\juzheng.cpp
+	"JuZheng.h"
+	<iomanip>
+
+1551862129 c:\users\administrator\desktop\juzheng\include\juzheng.h
+	<iostream>
+	<string>
+
+1551862838 source:c:\users\administrator\desktop\juzheng\main.cpp
+	<iostream>
+	<JuZheng.h>
+
